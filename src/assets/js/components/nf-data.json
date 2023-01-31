@@ -1,0 +1,23 @@
+[
+    {
+        "ChaveAcesso": 321505032464294000157500010000170610001678487,
+        "DataEmissao": "20/05/2015 00:00:00",
+        "Situacao": "Autorizada",
+        "NomeCliente": "Chembro Quimica Ltda",
+        "NomeProduto": "CR 5100"
+    },
+    {
+        "ChaveAcesso": 321505032464294000157500010000170610001678487,
+        "DataEmissao": "20/05/2015 00:00:00",
+        "Situacao": "Cancelada",
+        "NomeCliente": "Chembro Quimica Ltda",
+        "NomeProduto": "CR 5100"
+    },
+    {
+        "ChaveAcesso": 321505032464294000157500010000170610001678487,
+        "DataEmissao": "20/05/2015 00:00:00",
+        "Situacao": "Autorizada",
+        "NomeCliente": "Chembro Quimica Ltda",
+        "NomeProduto": "CR 5101"
+    }
+]
