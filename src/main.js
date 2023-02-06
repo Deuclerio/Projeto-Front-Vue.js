@@ -9,13 +9,19 @@ Vue.use(VueResource);
 import App from './App.vue'
 
 const AllNFS = require('./assets/js/components/all-nfs.vue');
+const Login = require('./assets/js/components/login-nfs.vue');
 
 const routes = [
     {
         name: 'all-nfs',
         path: '/',
         component: AllNFS
-    }
+    },
+	{
+		name: 'login_nfs',
+		path: '/nfs/login',
+		component: Login
+    },
 ];
 var router = new VueRouter({ routes: routes, mode: 'history' });
 new Vue(Vue.util.extend({ router }, App)).$mount('#app');
