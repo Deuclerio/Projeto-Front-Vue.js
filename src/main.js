@@ -19,7 +19,7 @@ const routes = [
     },
 	{
 		name: 'login_nfs',
-		path: '/nfs/login',
+		path: '/login',
 		component: Login
     },
 ];
